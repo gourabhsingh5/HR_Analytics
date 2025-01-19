@@ -3,7 +3,7 @@
 This project aims to analyze HR data to uncover insights related to employee attrition. The primary goal is to understand patterns among employees who have left the company and provide actionable insights to improve retention strategies. The analysis focuses on factors such as age, profession, education, salary, and working tenure. The results are visualized in an interactive Power BI dashboard..
 
 ## Dataset used
-- <a href="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dataset</a>
+- <a href="https://github.com/gourabhsingh5/HR_Analytics/blob/main/HR_Analytics.csv">Dataset</a>
 
 ## Questions (KPIs)
 - What is the overall attrition rate in the organization?
@@ -30,7 +30,7 @@ Examining how the number of years at the company relates to employee attrition.
 
 Determining if employees with specific educational backgrounds are more prone to leaving.
 
-- Dashboard Interaction <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/gourabhsingh5/HR_Analytics/blob/main/Screenshot%202025-01-19%20152845.png">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
@@ -40,7 +40,7 @@ Determining if employees with specific educational backgrounds are more prone to
 
 ## Dashboard
 
-![Screenshot (495)](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
+![Screenshot (495)](https://github.com/gourabhsingh5/HR_Analytics/blob/main/Screenshot%202025-01-19%20152845.png)
 
 ## Key Outcomes
 
