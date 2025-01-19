@@ -30,7 +30,7 @@ Examining how the number of years at the company relates to employee attrition.
 
 Determining if employees with specific educational backgrounds are more prone to leaving.
 
-- Dashboard Interaction <a href="https://github.com/gourabhsingh5/HR_Analytics/blob/main/Screenshot%202025-01-19%20152845.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/gourabhsingh5/HR_Analytics/blob/main/hr_analytics_dashboard.png">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
@@ -40,7 +40,7 @@ Determining if employees with specific educational backgrounds are more prone to
 
 ## Dashboard
 
-![Screenshot (495)](https://github.com/gourabhsingh5/HR_Analytics/blob/main/Screenshot%202025-01-19%20152845.png)
+![Screenshot (495)](https://github.com/gourabhsingh5/HR_Analytics/blob/main/hr_analytics_dashboard.png)
 
 ## Key Outcomes
 
